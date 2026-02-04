@@ -43,7 +43,7 @@ Contains daily market sentiment indicators including:
 ## Repository Structure
 Trader_Performance_vs_Market_Sentiment
 │
-├── analysis(1).ipynb # Complete analysis notebook
+├── analysis.ipynb # Complete analysis notebook
 ├── README.md # Project documentation
 │
 ├── data/
